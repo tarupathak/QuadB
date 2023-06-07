@@ -65,11 +65,9 @@ const Details = () => {
               </div>
             </div>
             <div id="btn">
-              <span>
-                Previous Episode
-              </span>
+              
               {/* <span>Book</span> */} <span><Form /></span>
-              <span>Next Episode</span>
+              
             </div>
           </div>
         </div>
